@@ -1,0 +1,45 @@
+
+.center{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+.justo{
+    text-align: justify;
+}
+#menu li{
+    display: inline;
+    padding: 1.5rem;
+    font-size: 1.2rem;
+}
+#menu li a{
+    text-decoration: none;
+    color: #000;
+}
+#menu li a:hover{
+    color: azure;
+}
+.p-2{
+    padding: 2rem;
+}
+.br-50{
+   border-radius: 50%;
+}
+.wh-20{
+    width: 20rem;
+    height: 20rem;
+}
+.tm{
+   width: 3.3rem;
+}
+.mb-50{
+    margin-bottom: 3rem;
+}
+/*segunda pagina*/
+.ml-50{
+    margin-left: 3rem;
+}
